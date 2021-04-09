@@ -13,10 +13,7 @@ sections:
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /about
-            style: primary
+        actions: []
 seo:
   title: Features
   description: This is the features page
