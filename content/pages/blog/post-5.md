@@ -3,8 +3,7 @@ date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/category-65ktaqdwt.json
-tags:
-  - Netlify
+tags: []
 image: images/todd.jpeg
 image_alt: Post 5 placeholder image
 excerpt: >-
