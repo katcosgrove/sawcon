@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Registration
 seo:
   title: ''
   description: ''
