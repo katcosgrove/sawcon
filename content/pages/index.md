@@ -21,7 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: Slicing Technology
-    subtitle: 'SawCon is the premier conference for disruptive '
+    subtitle: SawCon is the premier conference for disruptive technology
   - type: features_section
     title: Features
     features:
