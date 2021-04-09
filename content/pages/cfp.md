@@ -6,7 +6,7 @@ sections:
     align: center
     subtitle: >-
       Do you have thoughts on blockchain for private prisons? Can you "WOW!" us
-      with best practices for AI 
+      with best practices for AI on the Edge as a Service?
   - type: contact_section
 seo:
   title: Call for Papers
