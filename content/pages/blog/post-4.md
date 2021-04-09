@@ -5,11 +5,7 @@ categories:
   - content/data/categories/general.yaml
 tags: []
 image_alt: Post 3 placeholder image
-excerpt: >-
-  Cosmo Brumm didn't let success find him, he pursued it. As the inventor of
-  three patented systems for recycling your used bath water, he has deep
-  knowledge of the lifecycle of both products and hydrophilic bacteria. Ask him
-  about his ultimate recipe for brewing Aeropress with Kopi luwak beans.
+excerpt: this should be the girlboss one
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
