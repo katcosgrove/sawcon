@@ -18,6 +18,10 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: Slicing Technology
+    subtitle: >-
+      SawCon is the premier conference for disruptive technology in the
+      enterprise. Join us for a full day of the sharpest minds on the subjects
+      of BizDevOps, Hybrid Cloud, and Edge Computing at Scale.
   - type: features_section
     title: Featured Speakers
     features:
