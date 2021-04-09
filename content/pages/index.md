@@ -23,7 +23,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    title: Disrupting Technology
+    title: 'Slicing '
   - type: features_section
     title: Features
     features:
