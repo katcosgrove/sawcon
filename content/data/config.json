@@ -32,18 +32,7 @@
     },
     "footer": {
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
-                "label": "Privacy and Terms",
-                "url": "/terms",
-                "style": "link"
-            }
-        ],
+        "nav_links": [],
         "has_social": true,
         "social_links": [
             {
