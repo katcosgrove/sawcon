@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Starter Theme",
+    "title": "SawCon Virtual 2021",
     "path_prefix": "/",
     "header": {
         "title": "SawCon Virtual",
@@ -53,24 +53,12 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://twitter.com/dixie3flatline",
                 "style": "link",
                 "new_window": true
             }
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://caring-yam-085e5.netlify.app"
+    "domain": "https://sawcon.lol"
 }

@@ -82,30 +82,39 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
-  description: The preview of the Starter theme
+  title: SawCon Virtual 2021
+  description: >-
+    The premier conference for disruptive technology in the enterprise. A full
+    day of the sharpest minds in BizDevOps, Hybrid Cloud, and Edge Computing at
+    Scale.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: SawCon Virtual 2021
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: >-
+        The premier conference for disruptive technology in the enterprise. A
+        full day of the sharpest minds in BizDevOps, Hybrid Cloud, and Edge
+        Computing at Scale.
       keyName: property
     - name: 'og:image'
-      value: images/starter-preview.png
+      value: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: SawCon Virtual 2021
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: >-
+        The premier conference for disruptive technology in the enterprise. A
+        full day of the sharpest minds in BizDevOps, Hybrid Cloud, and Edge
+        Computing at Scale.
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: /images/oceanic-sage.jpg
       relativeUrl: true
 layout: advanced
 ---
