@@ -70,7 +70,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: Submit a Session
+    title: CFP Open
     subtitle: >-
       Our Call for Papers is open! Be a part of the next generation of Thought
       Leadership.
