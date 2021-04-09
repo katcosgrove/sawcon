@@ -3,8 +3,7 @@ title: Cancellation Announcement
 date: '2020-05-28'
 categories:
   - content/data/categories/general.yaml
-tags:
-  - Stackbit
+tags: []
 image_alt: Post 3 placeholder image
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
