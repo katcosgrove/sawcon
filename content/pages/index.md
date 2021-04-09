@@ -26,17 +26,9 @@ sections:
       enterprise. Join us for a full day of the sharpest minds on the subjects
       of BizDevOps, Hybrid Cloud, and Edge Computing at Scale.
   - title: Session Cancellation
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      We regret to announce that the panel Diversity at Scale: Hiring in the Era
+      of Cancel Culture has been cancelled. 
     type: content_section
   - type: features_section
     title: Featured Speakers
