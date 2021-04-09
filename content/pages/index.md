@@ -38,10 +38,7 @@ sections:
         image: images/richardhead.jpeg
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - content: >
           Jarm has been working with computers ever since she can remember. She
           sees the value in them, and she loves to help others see what she
