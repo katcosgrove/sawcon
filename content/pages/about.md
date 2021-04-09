@@ -7,11 +7,11 @@ sections:
   - type: content_section
     content: >
       This is an elaborate shitpost by Kat Cosgrove, because she wanted to make
-      a "these nuts" joke. 
+      a "these nuts" joke.
 
 
       Special thanks to the Tech Shitposters Illuminati, and in particular to
-      Tef, Manish, Ti, Luna, and Sy. 
+      tef, Manish, Ti, Luna, and Sy.
   - type: team_section
     title: Our Team
     team:
