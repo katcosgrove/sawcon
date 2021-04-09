@@ -17,22 +17,26 @@ export default class ContactSection extends React.Component {
                     <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Your name" required />
                   </div>
                   <div className="form-group">
+                    <label id="title-label" htmlFor="title">Title</label>
+                    <input aria-labelledby="name-label" type="text" name="title" id="title" placeholder="Your title" required />
+                  </div>
+                  <div className="form-group">
                     <label id="email-label" htmlFor="email">Email</label>
                     <input aria-labelledby="email-label" type="email" name="email" id="email" placeholder="Your email" required />
                   </div>
                   <div className="form-group">
-                    <label htmlFor="subject">Subject</label>
+                    <label htmlFor="subject">Talk Category</label>
                     <div className="form-select-wrap">
                       <select name="subject" id="subject">
                         <option value="">Please select</option>
-                        <option value="Business Inquiries">Business Inquiries</option>
-                        <option value="Sponsorship">Partnerships</option>
-                        <option value="Other">Other</option>
+                        <option value="Full Session">Full Session (90 Minutes)</option>
+                        <option value="Short Session">Short Session (60 Minutes)</option>
+                        <option value="Lightning Talk">Lightning Talk (15 Minutes)</option>
                       </select>
                     </div>
                   </div>
                   <div className="form-group">
-                    <label id="message-label" htmlFor="message">Message</label>
+                    <label id="message-label" htmlFor="abstract">Abstract</label>
                     <textarea aria-labelledby="message-label" name="message" id="message" rows="5" placeholder="Your message" />
                   </div>
                   <div className="form-group form-checkbox">
@@ -41,7 +45,7 @@ export default class ContactSection extends React.Component {
                       contacted.</label>
                   </div>
                   <div className="form-submit">
-                    <button type="submit" className="button">Get In Touch</button>
+                    <button type="submit" className="button">Submit</button>
                   </div>
                 </form>
               </div>
