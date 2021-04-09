@@ -6,7 +6,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: images/todd.jpeg
 image_alt: Post 5 placeholder image
 excerpt: >-
   We Apologise that Ronald "Grandpa Code" Todd's Keynote has been cancelled due
