@@ -20,8 +20,8 @@ sections:
     title: Slicing Technology
     subtitle: >-
       SawCon is the premier conference for disruptive technology in the
-      enterprise. Join us for a full day of the sharpest minds on the subjects
-      of BizDevOps, Hybrid Cloud, and Edge Computing at Scale.
+      enterprise. Join us June 9 for a full day of the sharpest minds on the
+      subjects of BizDevOps, Hybrid Cloud, and Edge Computing at Scale.
   - type: features_section
     title: Featured Speakers
     features:
