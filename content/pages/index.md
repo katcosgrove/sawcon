@@ -45,12 +45,11 @@ sections:
       - content: >
           Jarm has been working with computers ever since she can remember. She
           sees the value in them, and she loves to help others see what she
-          sees. As the first woman head of marketing at the largest Government
-          Observability Contractor, she faced a lot of challenges to reach where
-          she is now, but she's glad for the struggle and feels like it made her
-          a stronger individual. She's the author of the much-lauded feminist
-          book *From Lean In To Step Over: A Woman's Guide to Success in the
-          Enterprise.*
+          sees. As the first woman head of marketing at Plan.tr, she faced a lot
+          of challenges to reach where she is now, but she's glad for the
+          struggle and feels like it made her a stronger individual. She's the
+          author of the much-lauded feminist book *From Lean In To Step Over: A
+          Woman's Guide to Success in the Enterprise.*
         align: left
         image: images/jarm2.jpeg
         image_alt: >-
