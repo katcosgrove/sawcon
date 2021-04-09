@@ -12,7 +12,9 @@ sections:
 
 
       Special thanks to the Tech Shitposters Illuminati, and in particular to
-      tef, Manish, Ti, Luna, and Sy.
+      tef, [Manish](https://twitter.com/ManishEarth), Ti,
+      [Luna](https://twitter.com/lunasorcery), and
+      [Sy](https://twitter.com/TartanLlama).
 seo:
   title: Who We Are
   description: This is the about us page
