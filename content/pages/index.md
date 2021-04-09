@@ -37,7 +37,9 @@ sections:
           Elon. 
         align: left
         image: images/richardhead.jpeg
-        image_alt: Feature 1 placeholder image
+        image_alt: >-
+          A photo of a boring generic white guy with dark hair cut short and a
+          dark beard, also cut short. 
         image_position: right
         actions: []
       - content: >
