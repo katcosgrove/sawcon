@@ -77,7 +77,7 @@ sections:
     actions:
       - url: /features
         style: primary
-        label: Learn More
+        label: Go to CFP
     has_background: true
     background_color: gray
 seo:
