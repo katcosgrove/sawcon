@@ -5,7 +5,7 @@ export default class ContactSection extends React.Component {
         return (
             <section className="section">
               <div className="container container--md">
-                <form name="cfpForm" id="cfpForm" method="POST" action="/thanks" data-netlify="true" data-netlify-honeypot="bot-field">
+                <form name="cfpForm" id="cfpForm" method="POST" action="/thanks" netlify="true" data-netlify-honeypot="bot-field">
                   <div className="sr-only">
                     <label id="honeypot-label" htmlFor="honeypot">Don't fill this out if you're human:</label>
                     <input aria-labelledby="honeypot-label" id="honeypot" name="bot-field" />
