@@ -6,9 +6,6 @@ sections:
       - label: Register
         url: /register
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/sawhero.svg
     image_alt: Hero placeholder image
