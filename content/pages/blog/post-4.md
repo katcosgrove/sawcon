@@ -9,7 +9,9 @@ tags:
   - Sourcebit
 image: images/4.png
 image_alt: Post 4 placeholder image
-excerpt: We regret to announce that
+excerpt: >-
+  We regret to announce that the scheduled panel Diversity at Scale: Hiring in a
+  Socially Just Internet has been canceled.
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
