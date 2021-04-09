@@ -8,9 +8,8 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+## Powered by the Blockchain
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Because we're staying ahead of the curve, all tickets for SawCon Virtual 2021 will be sold as NFTs to prevent counterfeiting. 
 
-- Lorem ipsum
-- dolor sit amet
+SawCon Virtual 2021 is not responsible for drops in your NFT ticket value. Drops in your NFT ticket value will invalidate your reservation. 
