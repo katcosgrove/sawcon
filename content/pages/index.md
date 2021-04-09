@@ -17,7 +17,7 @@ sections:
     background:
       background_color: gray
       background_image: images/samuel-pereira-uf2nnANWa8Q-unsplash.jpg
-      background_image_opacity: 20
+      background_image_opacity: 40
       background_image_size: auto
       background_image_repeat: repeat
     title: Slicing Technology
