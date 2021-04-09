@@ -25,11 +25,6 @@ sections:
       SawCon is the premier conference for disruptive technology in the
       enterprise. Join us for a full day of the sharpest minds on the subjects
       of BizDevOps, Hybrid Cloud, and Edge Computing at Scale.
-  - title: Session Cancellation
-    content: >
-      We regret to announce that the panel Diversity at Scale: Hiring in the Era
-      of Cancel Culture has been cancelled. 
-    type: content_section
   - type: features_section
     title: Featured Speakers
     features:
@@ -78,6 +73,11 @@ sections:
           rim.
         image_position: right
         actions: []
+  - title: Session Cancellation
+    content: >
+      We regret to announce that the panel Diversity at Scale: Hiring in the Era
+      of Cancel Culture has been cancelled. 
+    type: content_section
   - type: blog_feed_section
     title: What's New
     show_recent: true
