@@ -6,7 +6,7 @@ sections:
     align: center
   - type: contact_section
 seo:
-  title: Features
+  title: Call for Papers
   description: This is the features page
   extra:
     - name: 'og:type'
