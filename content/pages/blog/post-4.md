@@ -4,7 +4,6 @@ date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
-  - content/data/categories/news.yaml
 tags:
   - JAMstack
   - Sourcebit
