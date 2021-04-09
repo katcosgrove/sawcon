@@ -77,7 +77,7 @@ sections:
     actions:
       - url: /features
         style: primary
-        label: Go to CFP
+        label: Submit a Session
     has_background: true
     background_color: gray
 seo:
