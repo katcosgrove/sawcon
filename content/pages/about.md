@@ -6,9 +6,9 @@ sections:
     align: center
   - type: content_section
     content: >
-      This is an elaborate shitpost by [Kat
-      Cosgrove](https://twitter.com/dixie3flatline), because she can't resist
-      over-engineering every tiny little fucking thing.
+      ![](/images/WIN\_20210408\_15\_37\_23\_Pro.jpeg)This is an elaborate
+      shitpost by [Kat Cosgrove](https://twitter.com/dixie3flatline), because
+      she can't resist over-engineering every tiny little fucking thing.
 
 
       Special thanks to the Tech Shitposters Illuminati, and in particular to
