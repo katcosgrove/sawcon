@@ -4,7 +4,6 @@ author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/category-65ktaqdwt.json
 tags:
-  - Stackbit
   - Netlify
 image: images/todd.jpeg
 image_alt: Post 5 placeholder image
