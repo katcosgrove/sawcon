@@ -41,9 +41,6 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Ann Parker has authored 2 NYT Best Seller books on her pioneering research, grit. She defines Grit as perseverance and passion, and sees it as integral to the success of an entrepreneur, or a company. Ann is is passionate about educating leaders, she enjoys traveling and has given workshops on Grit all over the world. Her favourite quote? "Anything is possible if you've got enough nerve."
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
-
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
-
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+Ann will be giving a talk on "How to prevent employee burn out" with a focus on promoting Grit through burn-out prevention programs like company subscription to Brain Space, the popular medication app, company branded logo T-shirts, and quarterly mandatory anti-burnout and grit education workshops.
