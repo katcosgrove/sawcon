@@ -30,11 +30,11 @@ sections:
     features:
       - title: Richard Head
         content: >
-          Richard works on Technical Strategy at Uber. He cares deeply about
-          inclusion in tech and has worked to make sure his company's hiring
-          processes work towards hiring more qualified women for the job. In his
-          spare time, he can be found practicing bouldering with his shiba inu,
-          Elon. 
+          Richard works on Technical Strategy at a major Gig Economy Disruptor.
+          He cares deeply about inclusion in tech and has worked to make sure
+          his company's hiring processes work towards hiring more qualified
+          women for the job. In his spare time, he can be found practicing
+          bouldering with his shiba inu, Elon.
         align: left
         image: images/richardhead.jpeg
         image_alt: >-
