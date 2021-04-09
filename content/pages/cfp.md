@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Call for Papers
     align: center
-    subtitle: 'Do you have '
+    subtitle: 'Do you have thoughts on blockchain for private prisons? '
   - type: contact_section
 seo:
   title: Call for Papers
