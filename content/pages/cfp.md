@@ -2,7 +2,7 @@
 title: Call for Papers
 sections:
   - type: hero_section
-    title: Features
+    title: Call for Papers
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
   - type: features_section
