@@ -104,7 +104,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: SawCon Virtual 2021
     - name: 'twitter:description'
       value: The preview of the Starter theme
     - name: 'twitter:image'
