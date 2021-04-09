@@ -38,6 +38,6 @@ seo:
       relativeUrl: true
 layout: post
 author: content/data/team/gordon-norman.yaml
-image: images/brooke-lark-nMffL1zjbw4-unsplash.jpg
+image: images/incredible-zebra.jpeg
 ---
 Cosmo Brumm didn't let success find him, he pursued it. As the inventor of three patented systems for recycling your used bath water, he has deep knowledge of the lifecycle of both products and hydrophilic bacteria. Ask him about his ultimate recipe for brewing Aeropress with Kopi luwak beans.
