@@ -72,8 +72,8 @@ sections:
   - type: cta_section
     title: Submit a Session
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Our Call for Papers is open! Be a part of the next generation of Thought
+      Leadership.
     actions:
       - label: Learn More
         url: /features
