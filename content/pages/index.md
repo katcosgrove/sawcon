@@ -24,7 +24,7 @@ sections:
     subtitle: >-
       SawCon is the premier conference for disruptive technology in the
       enterprise. Join us for a full day of the sharpest minds on the subjects
-      of 
+      of BizDevOps, 
   - type: features_section
     title: Features
     features:
