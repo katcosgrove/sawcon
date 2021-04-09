@@ -6,11 +6,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Call for Papers",
-                "url": "/cfp",
-                "style": "link"
-            },
-            {
                 "label": "Register",
                 "url": "/register",
                 "style": "link",
