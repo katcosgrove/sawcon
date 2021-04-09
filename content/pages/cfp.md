@@ -8,7 +8,7 @@ sections:
       Do you have thoughts on blockchain for private prisons? Can you "WOW!" us
       with best practices for AI on the Edge as a Service? Have you discovered
       the secret to building a rockstar engineering team from diverse Ivy league
-      universities? We want to 
+      universities? We want to hear from you! Submit today!
   - type: contact_section
 seo:
   title: Call for Papers
