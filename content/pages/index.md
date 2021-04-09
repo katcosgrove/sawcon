@@ -21,7 +21,9 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: Slicing Technology
-    subtitle: 'SawCon is the premier conference for disruptive technology in '
+    subtitle: >-
+      SawCon is the premier conference for disruptive technology in the
+      enterprise. Join us
   - type: features_section
     title: Features
     features:
