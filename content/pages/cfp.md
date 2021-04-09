@@ -20,7 +20,7 @@ seo:
       value: Call for Papers
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: The CFP for SawCon Virtual 2021 is open! Submit today!
       keyName: property
     - name: 'og:image'
       value: images/5.png
