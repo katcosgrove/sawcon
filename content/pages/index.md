@@ -43,6 +43,10 @@ sections:
             url: /features
             style: secondary
       - content: >
+          ## From Lean In To Step Over: A Woman's Guide to Success in the
+          Enterprise
+
+
           Jarm has been working with computers ever since she can remember. She
           sees the value in them, and she loves to help others see what she
           sees. As the first woman head of marketing at Palantir, she faced a
