@@ -25,7 +25,7 @@ sections:
       SawCon is the premier conference for disruptive technology in the
       enterprise. Join us for a full day of the sharpest minds on the subjects
       of BizDevOps, Hybrid Cloud, and Edge Computing at Scale.
-  - title: lorem-ipsum
+  - title: Session Cancellation
     content: >-
       ## Lorem ipsum
 
