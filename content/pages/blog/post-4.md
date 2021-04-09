@@ -1,5 +1,5 @@
 ---
-title: Speaker Announcemet
+title: Session Cancellation
 date: '2020-05-28'
 categories:
   - content/data/categories/general.yaml
