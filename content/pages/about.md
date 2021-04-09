@@ -6,8 +6,10 @@ sections:
     align: center
   - type: content_section
     content: >
-      This is an elaborate shitpost by Kat Cosgrove, because she wanted to make
-      a "these nuts" joke.
+      This is an elaborate shitpost by [Kat
+      Cosgrove](https://twitter.com/dixie3flatline), because she wanted to make
+      a "these nuts" joke but can't resist over-engineering every tiny little
+      fucking thing.
 
 
       Special thanks to the Tech Shitposters Illuminati, and in particular to
