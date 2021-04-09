@@ -27,6 +27,7 @@ export default class ContactSection extends React.Component {
                         <option value="">Please select</option>
                         <option value="Full Session">Full Session (90 Minutes)</option>
                         <option value="Short Session">Short Session (60 Minutes)</option>
+                        <option value="Short Session">Short Session (60 Minutes)</option>
                         <option value="Other">Other</option>
                       </select>
                     </div>
