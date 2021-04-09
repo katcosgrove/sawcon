@@ -43,7 +43,7 @@ sections:
             url: /features
             style: secondary
       - content: >
-          #### From Lean In To Step Over: A Woman's Guide to Success in the
+          ###### From Lean In To Step Over: A Woman's Guide to Success in the
           Enterprise
 
 
