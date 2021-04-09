@@ -101,7 +101,7 @@ seo:
         Computing at Scale.
       keyName: property
     - name: 'og:image'
-      value: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+      value: /images/pleasant-velociraptor.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
