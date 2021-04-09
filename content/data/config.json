@@ -6,11 +6,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Call for Papers",
-                "url": "/cfp",
-                "style": "link"
-            },
-            {
                 "label": "Register",
                 "url": "/register",
                 "style": "link",
@@ -29,8 +24,8 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
-                "url": "/contact",
+                "label": "Submit CFP",
+                "url": "/cfp",
                 "style": "primary"
             }
         ]

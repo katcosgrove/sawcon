@@ -5,7 +5,7 @@ export default class ContactSection extends React.Component {
         return (
             <section className="section">
               <div className="container container--md">
-                <form name="contactForm" id="contactForm" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+                <form name="contactForm" id="contactForm" method="POST" action="/thanks" data-netlify="true" data-netlify-honeypot="bot-field">
                 <input type="hidden" name="form-name" value="contact" />
                   <div className="sr-only">
                     <label id="honeypot-label" htmlFor="honeypot">Don't fill this out if you're human:</label>
@@ -37,7 +37,7 @@ export default class ContactSection extends React.Component {
                   </div>
                   <div className="form-group">
                     <label id="message-label" htmlFor="abstract">Abstract</label>
-                    <textarea aria-labelledby="message-label" name="message" id="message" rows="5" placeholder="Your message" />
+                    <textarea aria-labelledby="message-label" name="message" id="message" rows="5" placeholder="Your abstract" />
                   </div>
                   <div className="form-group form-checkbox">
                     <input aria-labelledby="consent-label" type="checkbox" name="consent" id="consent" />

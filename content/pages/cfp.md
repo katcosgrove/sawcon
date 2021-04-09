@@ -4,20 +4,7 @@ sections:
   - type: hero_section
     title: Call for Papers
     align: center
-  - type: features_section
-    features:
-      - title: SAWCON THESE NUTS LOLLLLLL
-        content: |
-          GOTTEM
-
-
-
-          maybe actually put something here tho
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions: []
+  - type: contact_section
 seo:
   title: Features
   description: This is the features page
