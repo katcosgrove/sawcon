@@ -12,7 +12,8 @@ sections:
 
 
       Special thanks to the Tech Shitposters Illuminati, and in particular to
-      tef, [Manish](https://twitter.com/ManishEarth), Ti,
+      tef, [Manish](https://twitter.com/ManishEarth),
+      [Ti](https://twitter.com/zero_chill_tea),
       [Luna](https://twitter.com/lunasorcery), and
       [Sy](https://twitter.com/TartanLlama).
 seo:
