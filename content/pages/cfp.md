@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Call for Papers
     align: center
-    subtitle: 'We want to hear from you! '
+    subtitle: 'Do you have '
   - type: contact_section
 seo:
   title: Call for Papers
