@@ -9,9 +9,9 @@ tags:
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  We Apologise that Ronald "Grandpa Code" Todd's Keynote has been cancelled due
+  to a calendar clash with a court date. We stand behind Ronald despite the
+  accusations of impropriety
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
