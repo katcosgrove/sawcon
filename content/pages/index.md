@@ -83,7 +83,10 @@ sections:
     background_color: gray
 seo:
   title: SawCon Virtual 2021
-  description: The preview of the Starter theme
+  description: >-
+    The premier conference for disruptive technology in the enterprise. A full
+    day of the sharpest minds in BizDevOps, Hybrid Cloud, and Edge Computing at
+    Scale.
   extra:
     - name: 'og:type'
       value: website
