@@ -46,7 +46,6 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
-  - type: contact_section
 seo:
   title: Features
   description: This is the features page
