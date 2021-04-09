@@ -7,7 +7,6 @@ sections:
   - type: contact_section
 seo:
   title: Call for Papers
-  description: This is the features page
   extra:
     - name: 'og:type'
       value: website
