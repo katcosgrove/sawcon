@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: Panel Cancelled
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
