@@ -37,7 +37,9 @@ sections:
           Elon. 
         align: left
         image: images/richardhead.jpeg
-        image_alt: Feature 1 placeholder image
+        image_alt: >-
+          A photo of a boring generic white guy with dark hair cut short and a
+          dark beard, also cut short. 
         image_position: right
         actions: []
       - content: >
@@ -50,7 +52,9 @@ sections:
           Woman's Guide to Success in the Enterprise.*
         align: left
         image: images/jarm2.jpeg
-        image_alt: Feature 2 placeholder image
+        image_alt: >-
+          A photo of an average white woman with shoulder length, slightly curly
+          brown hair.
         image_position: left
         actions: []
         title: Jarm Mephtigan
@@ -63,9 +67,17 @@ sections:
           developer.
         align: left
         image: images/brad.jpeg
-        image_alt: Feature 3 placeholder image
+        image_alt: >-
+          A photo of another boring white guy, this one with a slightly longer
+          beard, slightly longer dark hair, and rectangular glasses with a black
+          rim.
         image_position: right
         actions: []
+  - title: Session Cancellation
+    content: >
+      We regret to announce that the panel Diversity at Scale: Hiring in the Era
+      of Cancel Culture has been cancelled. 
+    type: content_section
   - type: blog_feed_section
     title: What's New
     show_recent: true
