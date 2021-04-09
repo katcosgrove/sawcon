@@ -54,10 +54,12 @@ sections:
         actions: []
         title: Jarm Mephtigan
       - title: Brad C. Stevens
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Brad C Stevens, author of the ebook series "Be a success online,
+          today!" will be giving a motivational pitch, and talking about his
+          recent experiences on the saturation diet plan. Come and hear about
+          how the tragic loss of his third wife inspired him to be a better
+          developer.
         align: left
         image: images/brad.jpeg
         image_alt: Feature 3 placeholder image
