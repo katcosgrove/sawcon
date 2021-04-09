@@ -39,4 +39,4 @@ seo:
 layout: post
 title: In Support of Ronald Todd
 ---
-We apologize that Ronald "Grandpa Code" Todd's Keynote has been cancelled due to a calendar clash with a court date. We stand behind Ronald despite the accusations of impropriety
+We apologize that Ronald "Grandpa Code" Todd's Keynote has been cancelled due to a calendar clash with a court date. We stand behind Ronald despite the accusations of impropriety.
