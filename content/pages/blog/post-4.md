@@ -34,6 +34,6 @@ seo:
       relativeUrl: true
 layout: post
 author: content/data/team/gordon-norman.yaml
-image: images/cosmo.jpeg
+image: images/rainy-squid.jpg
 ---
 We regret to announce that our panel, Diversity at Scale: Hiring in the Cancel Culture Era, has been cancelled.
