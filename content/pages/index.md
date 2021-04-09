@@ -10,7 +10,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+    image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
