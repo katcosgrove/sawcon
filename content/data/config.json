@@ -28,8 +28,7 @@
                 "url": "/cfp",
                 "style": "primary"
             }
-        ],
-        "logo": "images/sawlogo.svg"
+        ]
     },
     "footer": {
         "has_nav": true,
