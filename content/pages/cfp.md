@@ -23,7 +23,7 @@ seo:
       value: The CFP for SawCon Virtual 2021 is open! Submit today!
       keyName: property
     - name: 'og:image'
-      value: images/5.png
+      value: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
