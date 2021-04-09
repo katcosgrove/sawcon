@@ -7,7 +7,7 @@ sections:
     subtitle: >-
       Do you have thoughts on blockchain for private prisons? Can you "WOW!" us
       with best practices for AI on the Edge as a Service? Have you discovered
-      the secret to building a rockstar engineering team from 
+      the secret to building a rockstar engineering team from diverse
   - type: contact_section
 seo:
   title: Call for Papers
