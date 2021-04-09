@@ -26,7 +26,7 @@ sections:
       enterprise. Join us for a full day of the sharpest minds on the subjects
       of BizDevOps, Hybrid Cloud, and Edge Computing.
   - type: features_section
-    title: Features
+    title: Featured Speakers
     features:
       - title: Feature 1
         content: >-
