@@ -30,7 +30,7 @@
             },
             {
                 "label": "Submit CFP",
-                "url": "/contact",
+                "url": "/cfp",
                 "style": "primary"
             }
         ]
