@@ -15,7 +15,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: gray
+      background_color: blue
       background_image: images/headway-F2KRf_QfCqw-unsplash.jpg
       background_image_opacity: 40
       background_image_size: auto
