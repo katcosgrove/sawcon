@@ -114,7 +114,7 @@ seo:
         full day of the sharpest minds in BizDevOps, Hybrid Cloud, and Edge
         Computing at Scale.
     - name: 'twitter:image'
-      value: /images/oceanic-sage.jpg
+      value: /images/alex-kotliarskyi-ourQHRTE2IM-unsplash.jpg
       relativeUrl: true
 layout: advanced
 ---
