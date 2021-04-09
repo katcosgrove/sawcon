@@ -16,7 +16,7 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/headway-F2KRf_QfCqw-unsplash.jpg
+      background_image: images/1065-200.png
       background_image_opacity: 40
       background_image_size: auto
       background_image_repeat: repeat
