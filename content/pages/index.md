@@ -77,6 +77,7 @@ sections:
     actions:
       - url: /features
         style: primary
+        label: Learn More
     has_background: true
     background_color: gray
 seo:
