@@ -75,7 +75,7 @@ sections:
       Our Call for Papers is open! Be a part of the next generation of Thought
       Leadership.
     actions:
-      - url: /features
+      - url: /cfp
         style: primary
         label: Submit a Session
     has_background: true
