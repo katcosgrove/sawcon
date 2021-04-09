@@ -5,7 +5,9 @@ categories:
   - content/data/categories/general.yaml
 tags: []
 image_alt: Post 3 placeholder image
-excerpt: this should be the girlboss one
+excerpt: >-
+  We regret to announce that our panel, Diversity at Scale: Hiring in the Cancel
+  Culture Era, has been cancelled.
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
