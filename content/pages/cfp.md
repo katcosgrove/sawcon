@@ -18,6 +18,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
+  - type: contact_section
 seo:
   title: Features
   description: This is the features page
