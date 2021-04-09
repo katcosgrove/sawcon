@@ -52,7 +52,7 @@ sections:
           Woman's Guide to Success in the Enterprise.*
         align: left
         image: images/jarm2.jpeg
-        image_alt: Feature 2 placeholder image
+        image_alt: 'A photo of a boring white woman '
         image_position: left
         actions: []
         title: Jarm Mephtigan
