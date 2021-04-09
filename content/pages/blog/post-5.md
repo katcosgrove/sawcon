@@ -1,5 +1,4 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
