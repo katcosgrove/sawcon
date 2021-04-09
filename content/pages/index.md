@@ -29,10 +29,11 @@ sections:
     title: Featured Speakers
     features:
       - title: Richard Head
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Richard works on Technical Strategy at Uber. He cares deeply about
+          inclusion in tech and has worked to make sure his company's hiring
+          processes work towards hiring more qualified women for the job. In his
+          spare time, he can be found practicing bouldering.
         align: left
         image: images/richardhead.jpeg
         image_alt: Feature 1 placeholder image
