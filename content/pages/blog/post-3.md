@@ -10,9 +10,12 @@ tags:
 image: images/ann.jpeg
 image_alt: Post 3 placeholder image
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  Ann Parker has authored 2 NYT Best Seller books on her pioneering research,
+  grit. She defines Grit as perseverance and passion, and sees it as integral to
+  the success of an entrepreneur, or a company. Ann is is passionate about
+  educating leaders, she enjoys traveling and has given workshops on Grit all
+  over the world. Her favourite quote? "Anything is possible if you've got
+  enough nerve."
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
