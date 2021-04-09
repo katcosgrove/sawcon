@@ -1,3 +1,3 @@
 export default function Success() {
-  return <div>Form successfully submitted!</div>
+  return <div>SAWCON THESE NUTS LOLLLLLL GOTTEM</div>
 }
