@@ -6,8 +6,10 @@ categories:
 tags: []
 image_alt: Post 3 placeholder image
 excerpt: >-
-  Due to speaker availability, we regret to announce that the panel Diversity at
-  Scale: Hiring in the Cancel Culture Era has been canceled.
+  Cosmo Brumm didn't let success find him, he pursued it. As the inventor of
+  three patented systems for recycling your used bath water, he has deep
+  knowledge of the lifecycle of both products and hydrophilic bacteria. Ask him
+  about his ultimate recipe for brewing Aeropress with Kopi luwak beans.
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
