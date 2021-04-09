@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Learn More
+      - label: Register
         url: /features
         style: primary
       - label: Contact Us
