@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: The CFP for SawCon Virtual 2021 is open! Submit today!
     - name: 'twitter:image'
-      value: images/5.png
+      value: /images/enthusiastic-paprika.jpg
       relativeUrl: true
   description: The CFP for SawCon Virtual 2021 is open! Submit today!
 layout: advanced
