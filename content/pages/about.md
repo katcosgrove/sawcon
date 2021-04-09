@@ -13,14 +13,6 @@ sections:
 
       Special thanks to the Tech Shitposters Illuminati, and in particular to
       tef, Manish, Ti, Luna, and Sy.
-  - type: team_section
-    title: Our Team
-    team:
-      - content/data/team/miles-tone.yaml
-      - content/data/team/dianne-ameter.yaml
-      - content/data/team/eleanor-carr.yaml
-      - content/data/team/hanson-deck.yaml
-      - content/data/team/gordon-norman.yaml
 seo:
   title: Who We Are
   description: This is the about us page
