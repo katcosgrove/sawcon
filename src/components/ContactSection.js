@@ -17,7 +17,7 @@ export default class ContactSection extends React.Component {
                     <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Your name" required />
                   </div>
                   <div className="form-group">
-                    <label id="name-label" htmlFor="name">Name</label>
+                    <label id="title-label" htmlFor="name">Name</label>
                     <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Your name" required />
                   </div>
                   <div className="form-group">
