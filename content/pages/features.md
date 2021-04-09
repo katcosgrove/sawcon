@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Call for Papers
 sections:
   - type: hero_section
     title: Features
