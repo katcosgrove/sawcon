@@ -42,10 +42,12 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+      - content: >
+          Jarm has been working with computers ever since she can remember. She
+          sees the value in them, and she loves to help others see what she
+          sees. As the first woman head of marketing at Palantir, she faced a
+          lot of challenges to reach where she is now, but she's glad for the
+          struggle and feels like it made her a stronger individual.
         align: left
         image: images/jarm2.jpeg
         image_alt: Feature 2 placeholder image
