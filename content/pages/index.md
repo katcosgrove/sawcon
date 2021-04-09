@@ -67,7 +67,9 @@ sections:
           developer.
         align: left
         image: images/brad.jpeg
-        image_alt: Feature 3 placeholder image
+        image_alt: >-
+          A photo of another boring white guy, this one with a slightly longer
+          beard, slightly longer dark hair, and 
         image_position: right
         actions: []
   - type: blog_feed_section
