@@ -21,6 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: Slicing Technology
+    subtitle: 'SawCon is the '
   - type: features_section
     title: Features
     features:
