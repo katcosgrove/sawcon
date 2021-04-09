@@ -6,7 +6,7 @@ sections:
     align: center
     subtitle: >-
       Do you have thoughts on blockchain for private prisons? Can you "WOW!" us
-      with 
+      with best practices for 
   - type: contact_section
 seo:
   title: Call for Papers
