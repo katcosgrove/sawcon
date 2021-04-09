@@ -69,7 +69,8 @@ sections:
         image: images/brad.jpeg
         image_alt: >-
           A photo of another boring white guy, this one with a slightly longer
-          beard, slightly longer dark hair, and 
+          beard, slightly longer dark hair, and rectangular glasses with a black
+          rim.
         image_position: right
         actions: []
   - type: blog_feed_section
