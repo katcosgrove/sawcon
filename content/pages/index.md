@@ -109,7 +109,10 @@ seo:
     - name: 'twitter:title'
       value: SawCon Virtual 2021
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: >-
+        The premier conference for disruptive technology in the enterprise. A
+        full day of the sharpest minds in BizDevOps, Hybrid Cloud, and Edge
+        Computing at Scale.
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
