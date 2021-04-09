@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: Register
-        url: /features
+        url: /register
         style: primary
       - label: Contact Us
         url: /contact
