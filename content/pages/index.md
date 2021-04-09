@@ -25,6 +25,19 @@ sections:
       SawCon is the premier conference for disruptive technology in the
       enterprise. Join us for a full day of the sharpest minds on the subjects
       of BizDevOps, Hybrid Cloud, and Edge Computing at Scale.
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
   - type: features_section
     title: Featured Speakers
     features:
@@ -88,19 +101,6 @@ sections:
         label: Submit a Session
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 seo:
   title: SawCon Virtual 2021
   description: >-
