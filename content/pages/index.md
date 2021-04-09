@@ -23,7 +23,7 @@ sections:
     title: Slicing Technology
     subtitle: >-
       SawCon is the premier conference for disruptive technology in the
-      enterprise. Join us for a 
+      enterprise. Join us for a full day of the sharpest 
   - type: features_section
     title: Features
     features:
