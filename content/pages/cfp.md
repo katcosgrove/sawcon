@@ -18,6 +18,23 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
 seo:
   title: Features
   description: This is the features page
