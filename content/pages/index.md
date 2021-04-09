@@ -75,8 +75,7 @@ sections:
       Our Call for Papers is open! Be a part of the next generation of Thought
       Leadership.
     actions:
-      - label: Submit
-        url: /features
+      - url: /features
         style: primary
     has_background: true
     background_color: gray
