@@ -37,6 +37,6 @@ seo:
       relativeUrl: true
 layout: post
 author: content/data/team/gordon-norman.yaml
-image: images/ann.jpeg
+image: images/brooke-lark-nMffL1zjbw4-unsplash.jpg
 ---
 Due to speaker availability, we regret to announce that the panel Diversity at Scale: Hiring in the Cancel Culture Era has been canceled. 
