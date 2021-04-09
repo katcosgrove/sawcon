@@ -52,7 +52,9 @@ sections:
           Woman's Guide to Success in the Enterprise.*
         align: left
         image: images/jarm2.jpeg
-        image_alt: 'A photo of an average white woman with '
+        image_alt: >-
+          A photo of an average white woman with shoulder length, slightly curly
+          brown hair.
         image_position: left
         actions: []
         title: Jarm Mephtigan
